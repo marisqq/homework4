@@ -1,4 +1,4 @@
-# homework4
+# Homework 4
 RCS final project 
 ## Create a TODO list web application / site
 1. Create TODOs
