@@ -1,9 +1,13 @@
-
-    .centered {
-        position: fixed;
-        top: 50%;
-        left: 50%;
-        /* bring your own prefixes */
-        transform: translate(-50%, -50%);
-      }
-      
+body{
+    background-color: rgb(248, 133, 133);
+}
+h1{
+font-family: 'Dancing Script' !important;
+font-size: 5rem!important;
+}
+.card{
+    background-color: hsla(60, 1%, 13%, 0.3);
+}
+.table{
+    color: rgb(252, 252, 252);
+}
